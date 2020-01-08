@@ -1,5 +1,5 @@
 # StarbucksCapstoneChallenge
-[Udacity Data Scientist Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025) [Capstone Project - Analyze Starbucks Capstone Challenge Dataset]()
+[Udacity Data Scientist Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025) [Capstone Project - Analyze Starbucks Capstone Challenge Dataset](https://medium.com/@sagarghai18695/predicting-starbucks-customer-success-7932a5d44d5b)
 
 ## Project Overview
 Customer satisfaction drives business success and data analytics provides insight into what customers think. For example, the phrase "[360-degree customer view](https://searchsalesforce.techtarget.com/definition/360-degree-customer-view)" refers to aggregating data describing a customer's purchases and customer service interactions.
